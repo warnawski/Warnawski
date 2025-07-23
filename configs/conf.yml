@@ -1,0 +1,8 @@
+configuration:
+  service:
+    http:
+    logger:
+
+  observality:
+    metrics:
+    tracing:
